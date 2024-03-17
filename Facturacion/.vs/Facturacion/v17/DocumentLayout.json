@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Facturacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56C491A1-39A4-4708-8EDF-E6DD94B318A3}|..\\FacturacionCP\\FacturacionCP.csproj|c:\\users\\usuario\\onedrive\\documentos\\trabajos de vs\\facturacioncp\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF98E3B-3E9E-4947-B536-E9CD10E107CB}|FacturacionCN\\FacturacionCN.csproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Facturacion\\facturacioncn\\productocn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF98E3B-3E9E-4947-B536-E9CD10E107CB}|FacturacionCN\\FacturacionCN.csproj|solutionrelative:facturacioncn\\productocn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF5D9A4-5A25-4782-86BF-2A6467DF39AD}|FacturacionCD\\FacturacionCD.csproj|c:\\users\\usuario\\onedrive\\documentos\\trabajos de vs\\facturacion\\facturacioncd\\productocd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF5D9A4-5A25-4782-86BF-2A6467DF39AD}|FacturacionCD\\FacturacionCD.csproj|solutionrelative:facturacioncd\\productocd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF5D9A4-5A25-4782-86BF-2A6467DF39AD}|FacturacionCD\\FacturacionCD.csproj|C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Facturacion\\facturacioncd\\conexioncd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF5D9A4-5A25-4782-86BF-2A6467DF39AD}|FacturacionCD\\FacturacionCD.csproj|solutionrelative:facturacioncd\\conexioncd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConexionCD.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Facturacion\\FacturacionCD\\ConexionCD.cs",
+              "RelativeDocumentMoniker": "FacturacionCD\\ConexionCD.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Facturacion\\FacturacionCD\\ConexionCD.cs",
+              "RelativeToolTip": "FacturacionCD\\ConexionCD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T02:49:36.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\FacturacionCP\\frmProducto.cs",
+              "RelativeDocumentMoniker": "..\\FacturacionCP\\frmProducto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\FacturacionCP\\frmProducto.cs",
+              "RelativeToolTip": "..\\FacturacionCP\\frmProducto.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T02:24:38.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoCD.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Facturacion\\FacturacionCD\\ProductoCD.cs",
+              "RelativeDocumentMoniker": "FacturacionCD\\ProductoCD.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Facturacion\\FacturacionCD\\ProductoCD.cs",
+              "RelativeToolTip": "FacturacionCD\\ProductoCD.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T02:24:20.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoCN.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Facturacion\\FacturacionCN\\ProductoCN.cs",
+              "RelativeDocumentMoniker": "FacturacionCN\\ProductoCN.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Facturacion\\FacturacionCN\\ProductoCN.cs",
+              "RelativeToolTip": "FacturacionCN\\ProductoCN.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAnwBAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T01:49:26.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

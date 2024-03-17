@@ -1,0 +1,49 @@
+C:\Users\2110359\source\repos\FacturacionCP\obj\Debug\FacturacionCP.csproj.AssemblyReference.cache
+C:\Users\2110359\source\repos\FacturacionCP\obj\Debug\FacturacionCP.csproj.SuggestedBindingRedirects.cache
+C:\Users\2110359\source\repos\FacturacionCP\obj\Debug\FacturacionCP.Form1.resources
+C:\Users\2110359\source\repos\FacturacionCP\obj\Debug\FacturacionCP.Properties.Resources.resources
+C:\Users\2110359\source\repos\FacturacionCP\obj\Debug\FacturacionCP.csproj.GenerateResource.cache
+C:\Users\2110359\source\repos\FacturacionCP\obj\Debug\FacturacionCP.csproj.CoreCompileInputs.cache
+C:\Users\2110359\source\repos\FacturacionCP\bin\Debug\FacturacionCP.exe.config
+C:\Users\2110359\source\repos\FacturacionCP\bin\Debug\FacturacionCP.exe
+C:\Users\2110359\source\repos\FacturacionCP\bin\Debug\FacturacionCP.pdb
+C:\Users\2110359\source\repos\FacturacionCP\bin\Debug\FacturacionCN.dll
+C:\Users\2110359\source\repos\FacturacionCP\bin\Debug\FacturacionCD.dll
+C:\Users\2110359\source\repos\FacturacionCP\bin\Debug\FacturacionCN.pdb
+C:\Users\2110359\source\repos\FacturacionCP\bin\Debug\FacturacionCD.pdb
+C:\Users\2110359\source\repos\FacturacionCP\obj\Debug\FacturacionCP.csproj.CopyComplete
+C:\Users\2110359\source\repos\FacturacionCP\obj\Debug\FacturacionCP.exe
+C:\Users\2110359\source\repos\FacturacionCP\obj\Debug\FacturacionCP.pdb
+C:\Users\2110255\Desktop\FacturacionCP\bin\Debug\FacturacionCP.exe.config
+C:\Users\2110255\Desktop\FacturacionCP\bin\Debug\FacturacionCP.exe
+C:\Users\2110255\Desktop\FacturacionCP\bin\Debug\FacturacionCP.pdb
+C:\Users\2110255\Desktop\FacturacionCP\bin\Debug\FacturacionCN.dll
+C:\Users\2110255\Desktop\FacturacionCP\bin\Debug\FacturacionCD.dll
+C:\Users\2110255\Desktop\FacturacionCP\bin\Debug\FacturacionCN.pdb
+C:\Users\2110255\Desktop\FacturacionCP\bin\Debug\FacturacionCD.pdb
+C:\Users\2110255\Desktop\FacturacionCP\obj\Debug\FacturacionCP.csproj.AssemblyReference.cache
+C:\Users\2110255\Desktop\FacturacionCP\obj\Debug\FacturacionCP.csproj.SuggestedBindingRedirects.cache
+C:\Users\2110255\Desktop\FacturacionCP\obj\Debug\FacturacionCP.frmClientes.resources
+C:\Users\2110255\Desktop\FacturacionCP\obj\Debug\FacturacionCP.form1.resources
+C:\Users\2110255\Desktop\FacturacionCP\obj\Debug\FacturacionCP.Properties.Resources.resources
+C:\Users\2110255\Desktop\FacturacionCP\obj\Debug\FacturacionCP.csproj.GenerateResource.cache
+C:\Users\2110255\Desktop\FacturacionCP\obj\Debug\FacturacionCP.csproj.CoreCompileInputs.cache
+C:\Users\2110255\Desktop\FacturacionCP\obj\Debug\FacturacionCP.csproj.CopyComplete
+C:\Users\2110255\Desktop\FacturacionCP\obj\Debug\FacturacionCP.exe
+C:\Users\2110255\Desktop\FacturacionCP\obj\Debug\FacturacionCP.pdb
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\FacturacionCP\bin\Debug\FacturacionCP.exe.config
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\FacturacionCP\bin\Debug\FacturacionCP.exe
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\FacturacionCP\bin\Debug\FacturacionCP.pdb
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\FacturacionCP\bin\Debug\FacturacionCN.dll
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\FacturacionCP\bin\Debug\FacturacionCD.dll
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\FacturacionCP\bin\Debug\FacturacionCN.pdb
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\FacturacionCP\bin\Debug\FacturacionCD.pdb
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\FacturacionCP\obj\Debug\FacturacionCP.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\FacturacionCP\obj\Debug\FacturacionCP.frmClientes.resources
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\FacturacionCP\obj\Debug\FacturacionCP.form1.resources
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\FacturacionCP\obj\Debug\FacturacionCP.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\FacturacionCP\obj\Debug\FacturacionCP.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\FacturacionCP\obj\Debug\FacturacionCP.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\FacturacionCP\obj\Debug\Facturac.2508113E.Up2Date
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\FacturacionCP\obj\Debug\FacturacionCP.exe
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\FacturacionCP\obj\Debug\FacturacionCP.pdb

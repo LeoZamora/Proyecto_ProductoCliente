@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Proyecto Ejecutable/1.0.0": {
+        "dependencies": {
+          "FacturacionCD": "1.0.0",
+          "FacturacionCN": "1.0.0",
+          "FacturacionCP": "1.0.0"
+        },
+        "runtime": {
+          "Proyecto Ejecutable.dll": {}
+        }
+      },
+      "FacturacionCD/1.0.0": {
+        "runtime": {
+          "FacturacionCD.dll": {}
+        }
+      },
+      "FacturacionCN/1.0.0": {
+        "dependencies": {
+          "FacturacionCD": "1.0.0"
+        },
+        "runtime": {
+          "FacturacionCN.dll": {}
+        }
+      },
+      "FacturacionCP/1.0.0": {
+        "dependencies": {
+          "FacturacionCN": "1.0.0"
+        },
+        "runtime": {
+          "FacturacionCP.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto Ejecutable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FacturacionCD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FacturacionCN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FacturacionCP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

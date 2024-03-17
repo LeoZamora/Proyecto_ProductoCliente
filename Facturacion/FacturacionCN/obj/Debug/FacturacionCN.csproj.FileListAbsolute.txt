@@ -1,0 +1,36 @@
+C:\Users\2110359\source\repos\Facturacion\FacturacionCN\obj\Debug\FacturacionCN.csproj.AssemblyReference.cache
+C:\Users\2110359\source\repos\Facturacion\FacturacionCN\obj\Debug\FacturacionCN.csproj.CoreCompileInputs.cache
+C:\Users\2110359\source\repos\Facturacion\FacturacionCN\bin\Debug\FacturacionCN.dll
+C:\Users\2110359\source\repos\Facturacion\FacturacionCN\bin\Debug\FacturacionCN.pdb
+C:\Users\2110359\source\repos\Facturacion\FacturacionCN\bin\Debug\FacturacionCD.dll
+C:\Users\2110359\source\repos\Facturacion\FacturacionCN\bin\Debug\FacturacionCD.pdb
+C:\Users\2110359\source\repos\Facturacion\FacturacionCN\obj\Debug\FacturacionCN.csproj.CopyComplete
+C:\Users\2110359\source\repos\Facturacion\FacturacionCN\obj\Debug\FacturacionCN.dll
+C:\Users\2110359\source\repos\Facturacion\FacturacionCN\obj\Debug\FacturacionCN.pdb
+C:\Users\2110255\Desktop\Facturacion\FacturacionCN\bin\Debug\FacturacionCN.dll
+C:\Users\2110255\Desktop\Facturacion\FacturacionCN\bin\Debug\FacturacionCN.pdb
+C:\Users\2110255\Desktop\Facturacion\FacturacionCN\bin\Debug\FacturacionCD.dll
+C:\Users\2110255\Desktop\Facturacion\FacturacionCN\bin\Debug\FacturacionCD.pdb
+C:\Users\2110255\Desktop\Facturacion\FacturacionCN\obj\Debug\FacturacionCN.csproj.AssemblyReference.cache
+C:\Users\2110255\Desktop\Facturacion\FacturacionCN\obj\Debug\FacturacionCN.csproj.CoreCompileInputs.cache
+C:\Users\2110255\Desktop\Facturacion\FacturacionCN\obj\Debug\FacturacionCN.csproj.CopyComplete
+C:\Users\2110255\Desktop\Facturacion\FacturacionCN\obj\Debug\FacturacionCN.dll
+C:\Users\2110255\Desktop\Facturacion\FacturacionCN\obj\Debug\FacturacionCN.pdb
+D:\Facturacion\FacturacionCN\bin\Debug\FacturacionCN.dll
+D:\Facturacion\FacturacionCN\bin\Debug\FacturacionCN.pdb
+D:\Facturacion\FacturacionCN\bin\Debug\FacturacionCD.dll
+D:\Facturacion\FacturacionCN\bin\Debug\FacturacionCD.pdb
+D:\Facturacion\FacturacionCN\obj\Debug\FacturacionCN.csproj.AssemblyReference.cache
+D:\Facturacion\FacturacionCN\obj\Debug\FacturacionCN.csproj.CoreCompileInputs.cache
+D:\Facturacion\FacturacionCN\obj\Debug\FacturacionCN.csproj.CopyComplete
+D:\Facturacion\FacturacionCN\obj\Debug\FacturacionCN.dll
+D:\Facturacion\FacturacionCN\obj\Debug\FacturacionCN.pdb
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\Facturacion\FacturacionCN\bin\Debug\FacturacionCN.dll
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\Facturacion\FacturacionCN\bin\Debug\FacturacionCN.pdb
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\Facturacion\FacturacionCN\bin\Debug\FacturacionCD.dll
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\Facturacion\FacturacionCN\bin\Debug\FacturacionCD.pdb
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\Facturacion\FacturacionCN\obj\Debug\FacturacionCN.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\Facturacion\FacturacionCN\obj\Debug\FacturacionCN.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\Facturacion\FacturacionCN\obj\Debug\Facturac.25080D20.Up2Date
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\Facturacion\FacturacionCN\obj\Debug\FacturacionCN.dll
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\Facturacion\FacturacionCN\obj\Debug\FacturacionCN.pdb

@@ -1,0 +1,24 @@
+C:\Users\2110359\source\repos\Facturacion\FacturacionCD\obj\Debug\FacturacionCD.csproj.AssemblyReference.cache
+C:\Users\2110359\source\repos\Facturacion\FacturacionCD\obj\Debug\FacturacionCD.csproj.CoreCompileInputs.cache
+C:\Users\2110359\source\repos\Facturacion\FacturacionCD\bin\Debug\FacturacionCD.dll
+C:\Users\2110359\source\repos\Facturacion\FacturacionCD\bin\Debug\FacturacionCD.pdb
+C:\Users\2110359\source\repos\Facturacion\FacturacionCD\obj\Debug\FacturacionCD.dll
+C:\Users\2110359\source\repos\Facturacion\FacturacionCD\obj\Debug\FacturacionCD.pdb
+C:\Users\2110255\Desktop\Facturacion\FacturacionCD\bin\Debug\FacturacionCD.dll
+C:\Users\2110255\Desktop\Facturacion\FacturacionCD\bin\Debug\FacturacionCD.pdb
+C:\Users\2110255\Desktop\Facturacion\FacturacionCD\obj\Debug\FacturacionCD.csproj.AssemblyReference.cache
+C:\Users\2110255\Desktop\Facturacion\FacturacionCD\obj\Debug\FacturacionCD.csproj.CoreCompileInputs.cache
+C:\Users\2110255\Desktop\Facturacion\FacturacionCD\obj\Debug\FacturacionCD.dll
+C:\Users\2110255\Desktop\Facturacion\FacturacionCD\obj\Debug\FacturacionCD.pdb
+D:\Facturacion\FacturacionCD\bin\Debug\FacturacionCD.dll
+D:\Facturacion\FacturacionCD\bin\Debug\FacturacionCD.pdb
+D:\Facturacion\FacturacionCD\obj\Debug\FacturacionCD.csproj.AssemblyReference.cache
+D:\Facturacion\FacturacionCD\obj\Debug\FacturacionCD.csproj.CoreCompileInputs.cache
+D:\Facturacion\FacturacionCD\obj\Debug\FacturacionCD.dll
+D:\Facturacion\FacturacionCD\obj\Debug\FacturacionCD.pdb
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\Facturacion\FacturacionCD\bin\Debug\FacturacionCD.dll
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\Facturacion\FacturacionCD\bin\Debug\FacturacionCD.pdb
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\Facturacion\FacturacionCD\obj\Debug\FacturacionCD.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\Facturacion\FacturacionCD\obj\Debug\FacturacionCD.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\Facturacion\FacturacionCD\obj\Debug\FacturacionCD.dll
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\Facturacion\FacturacionCD\obj\Debug\FacturacionCD.pdb

@@ -1,0 +1,25 @@
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\bin\Debug\net8.0-windows\Proyecto Ejecutable.exe
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\bin\Debug\net8.0-windows\Proyecto Ejecutable.deps.json
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\bin\Debug\net8.0-windows\Proyecto Ejecutable.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\bin\Debug\net8.0-windows\Proyecto Ejecutable.dll
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\bin\Debug\net8.0-windows\Proyecto Ejecutable.pdb
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\bin\Debug\net8.0-windows\FacturacionCD.dll
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\bin\Debug\net8.0-windows\FacturacionCN.dll
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\bin\Debug\net8.0-windows\FacturacionCP.exe
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\bin\Debug\net8.0-windows\FacturacionCP.pdb
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\bin\Debug\net8.0-windows\FacturacionCP.exe.config
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\bin\Debug\net8.0-windows\FacturacionCD.pdb
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\bin\Debug\net8.0-windows\FacturacionCN.pdb
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\obj\Debug\net8.0-windows\Proyecto Ejecutable.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\obj\Debug\net8.0-windows\Proyecto_Ejecutable.Form1.resources
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\obj\Debug\net8.0-windows\Proyecto Ejecutable.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\obj\Debug\net8.0-windows\Proyecto Ejecutable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\obj\Debug\net8.0-windows\Proyecto Ejecutable.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\obj\Debug\net8.0-windows\Proyecto Ejecutable.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\obj\Debug\net8.0-windows\Proyecto Ejecutable.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\obj\Debug\net8.0-windows\Proyecto.3E5214EC.Up2Date
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\obj\Debug\net8.0-windows\Proyecto Ejecutable.dll
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\obj\Debug\net8.0-windows\refint\Proyecto Ejecutable.dll
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\obj\Debug\net8.0-windows\Proyecto Ejecutable.pdb
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\obj\Debug\net8.0-windows\Proyecto Ejecutable.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documentos\Trabajos de VS\ProyectoEjecutable\Proyecto Ejecutable\obj\Debug\net8.0-windows\ref\Proyecto Ejecutable.dll

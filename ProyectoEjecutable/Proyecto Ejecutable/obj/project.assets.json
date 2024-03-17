@@ -1,0 +1,146 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "FacturacionCD/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/FacturacionCD.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FacturacionCD.dll": {}
+        }
+      },
+      "FacturacionCN/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "FacturacionCD": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FacturacionCN.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FacturacionCN.dll": {}
+        }
+      },
+      "FacturacionCP/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "FacturacionCN": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FacturacionCP.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FacturacionCP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FacturacionCD/1.0.0": {
+      "type": "project",
+      "path": "../../Facturacion/FacturacionCD/FacturacionCD.csproj",
+      "msbuildProject": "../../Facturacion/FacturacionCD/FacturacionCD.csproj"
+    },
+    "FacturacionCN/1.0.0": {
+      "type": "project",
+      "path": "../../Facturacion/FacturacionCN/FacturacionCN.csproj",
+      "msbuildProject": "../../Facturacion/FacturacionCN/FacturacionCN.csproj"
+    },
+    "FacturacionCP/1.0.0": {
+      "type": "project",
+      "path": "../../FacturacionCP/FacturacionCP.csproj",
+      "msbuildProject": "../../FacturacionCP/FacturacionCP.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "FacturacionCD >= 1.0.0",
+      "FacturacionCN >= 1.0.0",
+      "FacturacionCP >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\ProyectoEjecutable\\Proyecto Ejecutable\\Proyecto Ejecutable.csproj",
+      "projectName": "Proyecto Ejecutable",
+      "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\ProyectoEjecutable\\Proyecto Ejecutable\\Proyecto Ejecutable.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\ProyectoEjecutable\\Proyecto Ejecutable\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\FacturacionCP\\FacturacionCP.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\FacturacionCP\\FacturacionCP.csproj"
+            },
+            "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Facturacion\\FacturacionCD\\FacturacionCD.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Facturacion\\FacturacionCD\\FacturacionCD.csproj"
+            },
+            "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Facturacion\\FacturacionCN\\FacturacionCN.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Trabajos de VS\\Facturacion\\FacturacionCN\\FacturacionCN.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
